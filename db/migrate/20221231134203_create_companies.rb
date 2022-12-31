@@ -8,5 +8,6 @@ class CreateCompanies < ActiveRecord::Migration[6.0]
 
       t.timestamps
     end
+    add_index :companies, :cik
   end
 end
