@@ -1,0 +1,1 @@
+stock ticker - A stock ticker is a listing of the ticker symbols of the stocks trading on that particular exchange and carries constantly updated share movements.
