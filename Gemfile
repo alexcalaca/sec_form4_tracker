@@ -46,3 +46,5 @@ end
 gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 gem "alphavantagerb", "~> 1.4"
+
+gem "pry", "~> 0.14.2"
