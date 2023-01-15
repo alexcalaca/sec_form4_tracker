@@ -1,0 +1,3 @@
+stock ticker - A stock ticker is a listing of the ticker symbols of the stocks trading on that particular exchange and carries constantly updated share movements.
+
+cik - A Central Index Key or CIK number is a unique number assigned to an individual, company, filing agent or foreign government by the United States Securities and Exchange Commission. The number is used to identify its filings in several online databases, including EDGAR.
